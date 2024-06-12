@@ -1,3 +1,3 @@
 # BlockCrafter
 
-![BlockCrafter](https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/6c6e45d4-51dc-4ea5-bef1-46d4ae51fad8)
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/1aa04d28-7f55-496d-97bb-81c69863e798" width="100%" alt="BlockCrafter" />
