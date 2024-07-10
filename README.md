@@ -40,6 +40,9 @@ In the survival mode, strategic defense becomes essential. Players must plan and
 ## User-Friendly Interface
 Designed with accessibility in mind, BlockCrafter features a straightforward and easy-to-navigate interface. This makes it suitable for players of all ages and skill levels, allowing them to jump into the game quickly without complicated setup or tutorials.
 
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/c7624abb-92a7-4621-95d3-2c9aac50cdda" width="49%" alt="BlockCrafter Main Menu" />
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/0255fcd8-5451-4709-ae55-97205884b5fc" width="49%" alt="BlockCrafter Main HUD" />
+
 # Game Modes
 
 ## Default Mode
