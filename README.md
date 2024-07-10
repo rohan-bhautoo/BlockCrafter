@@ -1,12 +1,12 @@
 <img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/3e0da9ac-aaf6-4e19-ab5c-ec88f0882efe" width="100%" alt="Logo" />
 
 # Table of Content
-- [Introduction](https://github.com/rohan-bhautoo/BlockCrafter/Introduction)
-- [Features](https://github.com/rohan-bhautoo/BlockCrafter/Features)
-- [Game Modes](https://github.com/rohan-bhautoo/BlockCrafter/Game%Modes)
-  - [Default Mode](https://github.com/rohan-bhautoo/BlockCrafter/Default%Mode)
-  - [Survival Mode](https://github.com/rohan-bhautoo/BlockCrafter/Survival%Mode)
-- [Controls](https://github.com/rohan-bhautoo/BlockCrafter/Controls)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Game Modes](#game-modes)
+  - [Default Mode](#default-mode)
+  - [Survival Mode](#survival-mode)
+- [Controls](#controls)
 
 # Introduction
 
