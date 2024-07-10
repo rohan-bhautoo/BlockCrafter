@@ -1,4 +1,4 @@
-# BlockCrafter
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/3e0da9ac-aaf6-4e19-ab5c-ec88f0882efe" width="100%" alt="Logo" />
 
 <img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/111c9b94-058d-4111-965c-b1dad001cd28" width="100%" alt="BlockCrafter 1" />
 
