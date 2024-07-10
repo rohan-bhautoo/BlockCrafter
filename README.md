@@ -14,11 +14,12 @@ BlockCrafter is a sandbox adventure game built using Unreal Engine. Inspired by 
 
 [Gameplay.webm](https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/712d5d31-6f58-4115-b72c-df2dc8719d11)
 
-<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/111c9b94-058d-4111-965c-b1dad001cd28" width="100%" alt="BlockCrafter 1" />
+# Features
 
-<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/4c2777d6-07f1-4e70-bbd4-387bef568355" width="100%" alt="BlockCrafter 2" />
+## Block Building and Destruction
+In BlockCrafter, you have the freedom to build and destroy blocks as you see fit. The game provides 8 unique types of blocks, each with its own properties and uses. Whether you're constructing elaborate structures or simply experimenting with different block combinations, the possibilities are endless.
 
-<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/cd8b0389-01a8-4f5e-a70d-612f7dc7495f" width="100%" alt="BlockCrafter 3" />
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/748b6dcf-7286-4778-9dc3-d3692a9b6908" width="100%" alt="BlockCrafter 1" />
 
 ## Author
 
