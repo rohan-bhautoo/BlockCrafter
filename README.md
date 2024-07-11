@@ -48,7 +48,7 @@ Players must navigate carefully, as the world contains magma blocks and quicksan
 ## Health Pickups
 To aid in survival, health pickups are spread throughout the map. Players can collect these pickups to restore health, providing a crucial resource during intense battles and exploration.
 
-<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/d360bdc0-3c25-4d9a-a607-807b6ff15dea" width="49%" alt="BlockCrafter Health Pickup" />
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/d360bdc0-3c25-4d9a-a607-807b6ff15dea" width="100%" alt="BlockCrafter Health Pickup" />
 
 ## User-Friendly Interface
 Designed with accessibility in mind, BlockCrafter features a straightforward and easy-to-navigate interface. This makes it suitable for players of all ages and skill levels, allowing them to jump into the game quickly without complicated setup or tutorials.
