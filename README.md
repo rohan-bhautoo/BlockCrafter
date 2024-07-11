@@ -7,6 +7,8 @@
   - [Weapons and Combat](#weapons-and-combat)
   - [Creative Freedom](#creative-freedom)
   - [Strategic Defense](#strategic-defense)
+  - [Hazardous Blocks](#hazardous-blocks)
+  - [Health Pickups](#health-pickups)
   - [User-Friendly Interface](#user-friendly-interface)
 - [Game Modes](#game-modes)
   - [Default Mode](#default-mode)
@@ -36,6 +38,17 @@ BlockCrafter emphasizes creative freedom, allowing players to build anything the
 
 ## Strategic Defense
 In the survival mode, strategic defense becomes essential. Players must plan and construct defensive structures to protect themselves from enemy attacks. Using blocks creatively to block or trap enemies can make the difference between life and death.
+
+## Hazardous Blocks
+Players must navigate carefully, as the world contains magma blocks and quicksand blocks that can damage the player. These blocks add an extra layer of challenge and strategy to both exploration and combat.
+
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/4260c1a5-1329-4dd9-9b76-0c3b212eb101" width="49%" alt="BlockCrafter Magma Block" />
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/f4e339b2-f3fb-49a6-8d72-93f0a0525ab0" width="49%" alt="BlockCrafter Quicksand Block" />
+
+## Health Pickups
+To aid in survival, health pickups are spread throughout the map. Players can collect these pickups to restore health, providing a crucial resource during intense battles and exploration.
+
+<img src="https://github.com/rohan-bhautoo/BlockCrafter/assets/47154593/d360bdc0-3c25-4d9a-a607-807b6ff15dea" width="49%" alt="BlockCrafter Health Pickup" />
 
 ## User-Friendly Interface
 Designed with accessibility in mind, BlockCrafter features a straightforward and easy-to-navigate interface. This makes it suitable for players of all ages and skill levels, allowing them to jump into the game quickly without complicated setup or tutorials.
